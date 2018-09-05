@@ -6,7 +6,7 @@
   "license": "MIT",
   "require": {
     "php": ">=7.1.0",
-    "jay/ethereum-rpc": ">=0.1.1"
+    "jay/ethereum-rpc": ">=0.1.2.2"
   },
   "autoload": {
     "psr-4": {
