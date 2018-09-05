@@ -1,12 +1,12 @@
 {
-  "name": "jay/erc20-php",
+  "name": "nmjay/erc20-php",
   "type": "library",
   "description": "Interact with any ERC20 standard Ethereum token",
   "keywords": ["erc20", "token", "tokens", "ethereum", "geth", "ethereum-go", "eth"],
   "license": "MIT",
   "require": {
     "php": ">=7.1.0",
-    "jay/ethereum-rpc": ">=0.1.2.2"
+    "nmjay/ethereum-rpc": ">=0.1.2.2"
   },
   "autoload": {
     "psr-4": {
